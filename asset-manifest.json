@@ -1,10 +1,18 @@
 {
   "files": {
-    "main.js": "./static/js/main.78024ff9.js",
+    "main.js": "./static/js/main.68264a80.js",
+    "static/media/sinhan.svg": "./static/media/sinhan.f2728f0bf0c85ddb5f0a559b03cc907f.svg",
+    "static/media/bc.svg": "./static/media/bc.6eb30052b265522c454ced82abcb2077.svg",
+    "static/media/kakaobank.svg": "./static/media/kakaobank.49765191edd0a9a05ca6e54ed01383c0.svg",
+    "static/media/hyundai.svg": "./static/media/hyundai.cc3084179c2b31fed5f4de1136dea786.svg",
+    "static/media/lotte.svg": "./static/media/lotte.040e8967189a12b9a7361412457ce289.svg",
+    "static/media/woori.svg": "./static/media/woori.fc6a2bbbde9ffe456498d59339536d74.svg",
+    "static/media/kukmin.svg": "./static/media/kukmin.0c810ad7b29b76f107316644c5b67210.svg",
+    "static/media/hana.svg": "./static/media/hana.f7b55514c22954563d7cb5c2ebbe4920.svg",
     "index.html": "./index.html",
-    "main.78024ff9.js.map": "./static/js/main.78024ff9.js.map"
+    "main.68264a80.js.map": "./static/js/main.68264a80.js.map"
   },
   "entrypoints": [
-    "static/js/main.78024ff9.js"
+    "static/js/main.68264a80.js"
   ]
 }
